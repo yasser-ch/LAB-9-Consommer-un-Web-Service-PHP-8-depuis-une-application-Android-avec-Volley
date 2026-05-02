@@ -166,3 +166,4 @@ Nécessaire pour Android 9+ afin d'autoriser le trafic HTTP local :
 
 ## 👤 Auteur
 
+Yasser Chettour Étudiant en Ingénierie Cybersécurité à l'École Nationale des Sciences Appliquées de Marrakech,Université Cadi Ayyad.
